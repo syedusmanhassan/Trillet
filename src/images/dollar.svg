@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- License: CC0. Made by SVG Repo: https://www.svgrepo.com/svg/278554/paste -->
+<svg width="89" height="89" viewBox="0 0 89 89" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_di_41_44)">
+<rect x="17" y="21.6802" width="48" height="48" rx="8" transform="rotate(-8 17 21.6802)" fill="white" fill-opacity="0.25" shape-rendering="crispEdges"/>
+<rect x="17.7059" y="22.2121" width="46.75" height="46.75" rx="7.375" transform="rotate(-8 17.7059 22.2121)" stroke="white" stroke-width="1.25" shape-rendering="crispEdges"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.9074 56.7754V54.6837C39.9386 54.3597 38.1635 53.5782 36.5867 52.3298C35.6138 51.5675 34.8392 50.767 34.2583 49.9284C34.0923 49.733 34.0047 49.5186 34.0001 49.2756C33.9955 48.9039 34.1799 48.6037 34.558 48.375L36.7803 47.0266L36.7895 47.0218C36.7895 47.0218 37.2229 46.8265 37.4396 46.8265C37.8423 46.8265 38.1635 46.9885 38.4033 47.3125C39.5052 48.5466 40.6717 49.3852 41.9074 49.8378V44.5393C39.0488 44.0819 36.9786 42.9765 35.706 41.2087C34.9468 40.1732 34.5549 38.9804 34.5303 37.6303C34.4796 34.8906 35.9181 32.8226 38.8505 31.4408C39.7588 31.012 40.7778 30.7166 41.9074 30.5546V28.2293C41.9074 27.548 42.4422 27 43.1015 27H45.2778C45.9371 27 46.4719 27.548 46.4719 28.2293V30.6165C48.8695 31.0501 50.8336 32.1603 52.3597 33.9519C52.578 34.1584 52.684 34.3966 52.6779 34.6666C52.6733 35.0049 52.5027 35.2813 52.1707 35.5005L49.727 37.0872H49.7178C49.7178 37.0872 49.289 37.3159 48.9755 37.3111C48.5882 37.3111 48.247 37.1824 47.9566 36.9299C47.477 36.5058 46.9837 36.1723 46.4719 35.9198V40.1605C49.3905 40.5845 51.5437 41.6471 52.9222 43.3481C53.7706 44.4107 54.1763 45.7067 54.1487 47.2267C54.1026 49.6711 53.0606 51.5818 51.0273 52.9731C49.7363 53.8451 48.2148 54.4121 46.4719 54.6789V56.7754C46.4719 57.452 45.9371 58 45.2778 58H43.1015C42.4422 58 41.9074 57.452 41.9074 56.7754ZM46.4719 49.7568C46.6333 49.6758 46.7993 49.5948 46.9468 49.4948C47.7952 48.9611 48.224 48.213 48.2332 47.241C48.2424 46.1975 47.6476 45.4923 46.4719 45.1064V49.7568ZM41.9074 39.5696V35.8054L41.7414 35.8769C40.8884 36.2962 40.4642 36.887 40.4688 37.6446C40.4781 38.55 40.9576 39.1884 41.9074 39.5696Z" fill="url(#paint0_linear_41_44)"/>
+<defs>
+<filter id="filter0_di_41_44" x="-43" y="-45" width="174.213" height="174.213" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="9"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.00784314 0 0 0 0 0.227451 0 0 0 0 0.517647 0 0 0 0.05 0"/>
+<feBlend mode="multiply" in2="BackgroundImageFix" result="effect1_dropShadow_41_44"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_41_44" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="8"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.8 0"/>
+<feBlend mode="normal" in2="shape" result="effect2_innerShadow_41_44"/>
+</filter>
+<linearGradient id="paint0_linear_41_44" x1="44.075" y1="27" x2="44.075" y2="58" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1483F3"/>
+<stop offset="1" stop-color="#4BB3F9"/>
+</linearGradient>
+</defs>
+</svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
