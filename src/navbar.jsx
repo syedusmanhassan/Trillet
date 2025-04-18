@@ -49,10 +49,10 @@ export default function Navbar() {
           <div 
             className="relative transition-all duration-500 ease-out ml-1" 
             style={{ 
-              width: scrolled ? "0" : "56px", // Width becomes 0 when scrolled
+              width: scrolled ? "0" : "56px", 
               height: scrolled ? "40px" : "56px",
-              opacity: scrolled ? "0" : "1", // Hide with opacity when scrolled
-              overflow: "hidden" // Prevent overflow during transition
+              opacity: scrolled ? "0" : "1", 
+              overflow: "hidden" 
             }}
           >
             <div className="absolute inset-0">
